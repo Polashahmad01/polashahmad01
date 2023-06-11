@@ -6,7 +6,7 @@
 
 <br/>
 
-![Polash's GitHub stats](https://github-readme-stats.vercel.app/api?username=polashahmad01&show_icons=true&theme=radical) <a href="https://github.com/polashahmad01/github-readme-stats"><img alt="Istiak Ahmad Polash's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=polashahmad01&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+![Polash's GitHub stats](https://github-readme-stats.vercel.app/api?username=polashahmad01&show_icons=true&theme=radical) <a href="https://github.com/polashahmad01/github-readme-stats"><img alt="Istiak Ahmad Polash's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=polashahmad01&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=false&bg_color=0D1117" /></a>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=polashahmad01&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=polashahmad01&theme=radical&hide_border=false&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 <br>
